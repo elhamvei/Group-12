@@ -33,3 +33,7 @@ DevOps SDLC
     requirements, then test, evaluate 
     and pinpoint further requirements. 
 
+5. Spiral:
+    One of the most flexible SDLC methodologies, 
+    Spiral takes a cue from the Iterative model 
+    and its repetition. 
