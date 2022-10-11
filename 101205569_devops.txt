@@ -1,4 +1,4 @@
-The course is designed to offer deep insights and knowledge into various tools. 
-With the adept learning of DevOps course syllabus, a student will be able to 
-become a trained practitioner in the integration and monitoring of software 
-throughout their development cycle.
+Learn DevOps and become an expert in the principles of 
+continuous development and deployment, automation of 
+configuration management, inter-team collaboration, 
+and IT service agility.
