@@ -1,0 +1,7 @@
+A DevOps engineer should have the ability to design, 
+provision, and manage computer ecosystems, whether 
+on-premise or in the cloud. It’s important to 
+understand Infrastructure as Code (IaC), 
+an IT management process that applies best 
+practices from DevOps software development to 
+the management of cloud infrastructure resources. 

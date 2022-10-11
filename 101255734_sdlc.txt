@@ -1,0 +1,51 @@
+DevOps SDLC 
+(software develpment life cycle).
+
+6 software development life cycle models: 
+1. Agile 
+2. Lean 
+3. Waterfall
+4. Iterative 
+5. Spiral
+6. DevOps
+
+1. Agile: 
+    The Agile model first emerged in 
+    2001 and has since become t
+    he de facto industry standard. 
+
+2. Lean: 
+   The Lean model for 
+   software development is 
+   inspired by "lean" manufacturing
+    practices and principles. 
+
+3. Waterfall: 
+    Some experts argue that the Waterfall 
+    model was never meant to be a process 
+    model for real projects.
+
+4. Iterative: 
+    The Iterative model is repetition 
+    incarnate. Instead of starting with 
+    fully known requirements, project 
+    teams implement a set of software 
+    requirements, then test, evaluate 
+    and pinpoint further requirements. 
+
+5. Spiral:
+    One of the most flexible SDLC methodologies, 
+    Spiral takes a cue from the Iterative model 
+    and its repetition. 
+
+6. DevOps:
+    The DevOps methodology is a relative 
+    newcomer to the SDLC scene. 
+    It emerged from two trends: 
+    the application of Agile and Lean 
+    practices to operations work, and 
+    the general shift in business toward
+     seeing the value of collaboration 
+     between development and operations 
+     staff at all stages of the SDLC 
+     process.
