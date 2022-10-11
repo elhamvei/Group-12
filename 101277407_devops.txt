@@ -1,0 +1,2 @@
+The words "Development" and "Operations" are used to form the term "DevOps." Promoting the growth and operation process together is part of the culture.
+The DevOps course will teach you the fundamentals of DevOps and give you an in-depth understanding of several DevOps technologies.
