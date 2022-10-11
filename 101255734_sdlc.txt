@@ -37,3 +37,15 @@ DevOps SDLC
     One of the most flexible SDLC methodologies, 
     Spiral takes a cue from the Iterative model 
     and its repetition. 
+
+6. DevOps:
+    The DevOps methodology is a relative 
+    newcomer to the SDLC scene. 
+    It emerged from two trends: 
+    the application of Agile and Lean 
+    practices to operations work, and 
+    the general shift in business toward
+     seeing the value of collaboration 
+     between development and operations 
+     staff at all stages of the SDLC 
+     process.
