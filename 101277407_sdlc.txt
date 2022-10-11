@@ -1,0 +1,6 @@
+DevOps methodologies.
+Version control systems.
+CI CD with Jenkins TeamCity and Maven.
+Software and automation testing frameworks.
+
+we should learn DevOps because DevOps is a set of practices or processes that combines software development and information technology operations. It is becoming popular because it enables businesses to achieve mainly two objectives; decrease systems development life cycle time and provide continuous product delivery with high quality. Increasing the pace of software delivery is not possible with traditional software development methodology as the methods are cumbersome and are conservative to adopt different sets of tools because of the siloed mentality of cross-functional teams. Moreover, DevOps requires teams to be highly collaborative and responsive. It requires teams to adopt toolchains that fit into the key aspects of development and delivery processes i.e. Coding, building, testing, packaging, releasing, configuring, monitoring.1,2 Moreover, DevOps is about the unification of Development and Operations through collaborative processes and heavy use of automation to deploy software faster.
