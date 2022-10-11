@@ -1,2 +1,10 @@
 DevOps SDLC 
-(software develpment life sycle).
+(software develpment life cycle).
+
+6 software development life cycle models: 
+1. Agile 
+2. Lean 
+3. Waterfall
+4. Iterative 
+5. Spiral
+6. DevOps
