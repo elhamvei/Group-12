@@ -8,3 +8,14 @@ DevOps SDLC
 4. Iterative 
 5. Spiral
 6. DevOps
+
+1. Agile: 
+    The Agile model first emerged in 
+    2001 and has since become t
+    he de facto industry standard. 
+
+2. Lean: 
+   The Lean model for 
+   software development is 
+   inspired by "lean" manufacturing
+    practices and principles. 
