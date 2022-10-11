@@ -1,0 +1,5 @@
+DevOps course provides hands-on training on 
+tools that have emerged as part of DevOps lifecycle. 
+It focuses on the practical skills required to work 
+successfully in a DevOps environment - focusing on 
+the skills needed to use the most prominent DevOps tools.
