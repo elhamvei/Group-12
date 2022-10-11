@@ -19,3 +19,17 @@ DevOps SDLC
    software development is 
    inspired by "lean" manufacturing
     practices and principles. 
+
+3. Waterfall: 
+    Some experts argue that the Waterfall 
+    model was never meant to be a process 
+    model for real projects.
+
+4. Iterative: 
+    The Iterative model is repetition 
+    incarnate. Instead of starting with 
+    fully known requirements, project 
+    teams implement a set of software 
+    requirements, then test, evaluate 
+    and pinpoint further requirements. 
+
