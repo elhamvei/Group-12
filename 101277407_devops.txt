@@ -1,2 +1,3 @@
 The words "Development" and "Operations" are used to form the term "DevOps." Promoting the growth and operation process together is part of the culture.
 The DevOps course will teach you the fundamentals of DevOps and give you an in-depth understanding of several DevOps technologies.
+Software development and operations are combined to form the term "DevOps." This enables one team to manage all stages of the lifetime of an application, from development to testing, deployment, and operations. By using DevOps, you may reduce the distance between system administrators, QA engineers, and software developers.
