@@ -1,5 +1,4 @@
-DevOps engineers build new skills on top of their current experience. 
-Tasks like data management and library updates for new product releases 
-combine with needs for leadership and collaboration across teams. 
-It is important for DevOps engineers to understand the fundamentals of 
-application development and delivery.
+DevOps is initially the culture and mindset forging strong 
+collaborative bonds between software development and 
+infrastructure operations teams. This culture is 
+built upon the following pillars.
