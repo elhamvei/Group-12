@@ -1,4 +1,7 @@
-DevOps is initially the culture and mindset forging strong 
-collaborative bonds between software development and 
-infrastructure operations teams. This culture is 
-built upon the following pillars.
+DevOps lifecycle is defined as a combination of 
+different phases of continuous software development, 
+integration, testing, deployment, and monitoring. 
+A competent DevOps lifecycle is necessary to build 
+superior quality software through the system. 
+This article explains the DevOps lifecycle, 
+its key components, and best practices in detail.
