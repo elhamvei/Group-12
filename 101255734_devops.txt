@@ -6,3 +6,8 @@ DevOps
  deliver applications and services 
  faster than traditional software 
  development processes.
+
+ The DevOps model enables 
+ your developers and 
+ operations teams to achieve 
+ these results.
